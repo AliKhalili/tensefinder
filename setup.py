@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='tensFinder',
       version='0.1',
       description='simple English tens finder',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/AliKhalili/tensfinder',
       author='Ali Khalili',
       author_email='akyegane[at]gmail.com',
       license='MIT',
