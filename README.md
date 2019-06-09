@@ -1,4 +1,4 @@
-Tens Finder
+Tense Finder
 ====
 Python library for finding English tense in sentences
 + find simple tenses
@@ -12,7 +12,7 @@ Installation
 Usage
 ====
 ```python
-from TensFinder.TenseParser import TenseParser
+from TenseFinder.TenseParser import TenseParser
 tense_parser = TenseParser()
 tense_parser.find_tense_simple_form_str("How do you think children should spend their free time?")
 ```

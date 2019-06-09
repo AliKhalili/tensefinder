@@ -1,13 +1,13 @@
 from setuptools import setup
 
-setup(name='tensFinder',
+setup(name='tenseFinder',
       version='0.1',
-      description='simple English tens finder',
+      description='simple English tense finder',
       url='https://github.com/AliKhalili/tensfinder',
       author='Ali Khalili',
       author_email='akyegane[at]gmail.com',
       license='MIT',
-      packages=['TensFinder'],
+      packages=['TenseFinder'],
       install_requires=[
           'spacy',
       ],
